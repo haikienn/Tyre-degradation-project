@@ -20,3 +20,32 @@ A linear regression was applied to the stable laps (excluding the first two anom
 
 The plot below shows the lap times and the regression line:
 https://github.com/haikienn/Tyre-degradation-project/blob/bf7693b569595fdb21b19fc0b2dd759716cadb96/Tyre%20Degradation%20%E2%80%93%20Bahrain%20GP%2C%20Hamilton%2C%20Stint%203.png
+
+
+## Pit Stop Simulation
+We simulated total race time assuming a single pit stop at different laps.  
+**Pit stop cost:** 24 s  
+
+The plot below shows the total race time depending on the pit lap. The red dashed line indicates the optimal pit lap according to our simplified model.
+https://github.com/haikienn/Tyre-degradation-project/blob/12baa563c6b51fef778f20f74ea68e26a3306c7f/Simulated%20Total%20Race%20Time%20vs%20Pit%20Lap.png
+
+
+## Interpretation, Limitations, and Broader Context
+
+The analysis shows that tyre degradation, when measured purely in lap time loss, is minimal in the analyzed stint. The estimated degradation rate is too small to justify a pit stop based solely on time recovery, as the time lost during a pit stop cannot be recovered within a realistic number of laps.
+
+This result highlights a key limitation of time-based degradation models: lap time alone is not sufficient to explain pit stop decisions in Formula 1.
+
+In reality, pit stops are influenced by several additional factors not captured in this simplified model, including:
+
+- Structural integrity and safety limits of the tyres
+- FIA regulations (e.g., mandatory tyre usage rules)
+- Strategic interactions such as undercut and overcut
+- Track conditions and asphalt grip evolution
+- Weather variability
+- Traffic and race context
+- Driver-specific factors such as aggression and tyre management style
+
+Therefore, while the model provides a useful quantitative framework for understanding tyre degradation trends, it should be interpreted as a partial explanation rather than a full representation of real-world race strategy.
+
+This limitation is not a weakness of the analysis but an important insight: it shows that Formula 1 strategy emerges from the interaction of physics, regulation, and competition, not from degradation alone.
