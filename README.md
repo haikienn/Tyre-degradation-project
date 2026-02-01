@@ -19,7 +19,4 @@ A linear regression was applied to the stable laps (excluding the first two anom
 - Average degradation per lap (`degradation`): 0.038 s
 
 The plot below shows the lap times and the regression line:
-
-Tyre Degradation – Bahrain GP, Hamilton, Stint 3.png
-
-![Lap Times Stint 3](Tyre Degradation – Bahrain GP, Hamilton, Stint 3.png)
+https://github.com/haikienn/Tyre-degradation-project/blob/bf7693b569595fdb21b19fc0b2dd759716cadb96/Tyre%20Degradation%20%E2%80%93%20Bahrain%20GP%2C%20Hamilton%2C%20Stint%203.png
