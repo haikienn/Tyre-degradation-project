@@ -19,7 +19,7 @@ A linear regression was applied to the stable laps (excluding the first two anom
 - Average degradation per lap (`degradation`): 0.038 s
 
 The plot below shows the lap times and the regression line:
-https://github.com/haikienn/Tyre-degradation-project/blob/bf7693b569595fdb21b19fc0b2dd759716cadb96/Tyre%20Degradation%20%E2%80%93%20Bahrain%20GP%2C%20Hamilton%2C%20Stint%203.png
+https://github.com/haikienn/Tyre-degradation-project/blob/29ef447e55d6a139ee6d00aed41e59628722372e/Tyre%20Degradation%20-%20Bahrain%20GP%2C%20Hamilton%2C%20Stint%203.png
 
 
 ## Pit Stop Simulation
@@ -27,7 +27,7 @@ We simulated total race time assuming a single pit stop at different laps.
 **Pit stop cost:** 24 s  
 
 The plot below shows the total race time depending on the pit lap. The red dashed line indicates the optimal pit lap according to our simplified model.
-https://github.com/haikienn/Tyre-degradation-project/blob/12baa563c6b51fef778f20f74ea68e26a3306c7f/Simulated%20Total%20Race%20Time%20vs%20Pit%20Lap.png
+https://github.com/haikienn/Tyre-degradation-project/blob/31c6de84493e81250f17fdb53676d26252445fc3/Simulated%20Total%20Race%20Time%20vs%20Pit%20Lap.png
 
 
 ## Interpretation, Limitations, and Broader Context
