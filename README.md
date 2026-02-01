@@ -3,10 +3,9 @@ This project analyzes Formula 1 telemetry data to estimate tyre degradation and 
 
 Analysis is carried with Rstudio and it requires the following libraries: 
 "
+
 library(readr)
-
 library(dplyr)
-
 library(ggplot2)
 
 "
