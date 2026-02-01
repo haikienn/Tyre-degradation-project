@@ -1,10 +1,17 @@
-# Tyre-degradation-project
-By Haikien Nguyen
+# F1 Tyre Degradation Analysis – Bahrain GP 2024, Hamilton
+By _Haikien Nguyen_
 
-This project analyzes Formula 1 telemetry data to estimate tyre degradation and simulate the impact of pit stops on total race time. The goal is to understand how total race time varies depending on the pit lap, based on a simplified linear degradation model.
+This project analyzes F1 telemetry data to estimate tyre degradation and simulate the impact of pit stops on total race time. The goal is to understand how total race time varies depending on the pit lap, using a simplified linear degradation model.
 
 Analysis is carried with Rstudio and it requires the following libraries: 
-
+```
 readr
 ggplot2
 dplyr
+```
+
+vsdvsv
+
+
+
+
