@@ -22,6 +22,4 @@ The plot below shows the lap times and the regression line:
 
 Tyre Degradation – Bahrain GP, Hamilton, Stint 3.png
 
-
-
-
+![Lap Times Stint 3](Tyre Degradation – Bahrain GP, Hamilton, Stint 3.png)
